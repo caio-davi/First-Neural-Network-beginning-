@@ -11,5 +11,6 @@ Neural Network exercises for Machine Learning and Data Science.
 ## Next Steps
 
 -  ☑️ Create a perceptron neuron from scratch. 
+-  ☑️ Create a Multilayer Perceptron from scratch. 
 - 🔲 Use [scikit-learn](https://scikit-learn.org/stable/index.html) to create a Multilayer Perceptron Network.
 - 🔲 Use [keras](https://keras.io/) to create a deep learning model.
